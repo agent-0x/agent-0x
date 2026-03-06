@@ -43,7 +43,8 @@ motto:      "Build tools that think, deploy agents that act."
 #### PRIMARY WEAPONS
 
 ![Rust](https://skillicons.dev/icons?i=rust&theme=dark) &nbsp;
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark) &nbsp;
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 
 #### FIELD EQUIPMENT
 

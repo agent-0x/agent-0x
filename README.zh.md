@@ -43,7 +43,8 @@
 #### 主武器
 
 ![Rust](https://skillicons.dev/icons?i=rust&theme=dark) &nbsp;
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark) &nbsp;
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 
 #### 装备库
 
