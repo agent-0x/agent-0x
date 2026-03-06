@@ -57,6 +57,7 @@ motto:      "Build tools that think, deploy agents that act."
 #### AI HANDLER
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=7000ff)
+![Codex](https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=white)
 — every line of code co-authored with AI
 
 </div>

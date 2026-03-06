@@ -57,6 +57,7 @@
 #### AI 搭档
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=7000ff)
+![Codex](https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=white)
 — 每一行代码都与 AI 协作完成
 
 </div>
