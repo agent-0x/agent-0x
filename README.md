@@ -32,6 +32,10 @@ codename:   agent-0x
 status:     Active
 specialty:  On-chain Analysis × AI Prediction
 motto:      "Build tools that think, deploy agents that act."
+believes_in:
+  - The Intelligent Economy is inevitable
+  - Technology optimist — AI amplifies human potential
+reads:      "The Three-Body Problem"  # The universe is a dark forest, but we choose to light a fire
 ```
 
 <br>
