@@ -19,7 +19,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=%3E+ACCESSING+AGENT+PROFILE...;%3E+CREDENTIALS+VERIFIED.;%3E+DOSSIER+LOADED.">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=1a1a6e&center=true&vCenter=true&width=500&height=35&lines=%3E+ACCESSING+AGENT+PROFILE...;%3E+CREDENTIALS+VERIFIED.;%3E+DOSSIER+LOADED.">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=%3E+ACCESSING+AGENT+PROFILE...;%3E+CREDENTIALS+VERIFIED.;%3E+DOSSIER+LOADED.">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=35&lines=%3E+ACCESSING+AGENT+PROFILE...;%3E+CREDENTIALS+VERIFIED.;%3E+DOSSIER+LOADED." alt="Typing animation: Accessing agent profile">
   </picture>
 </div>
 
@@ -86,7 +86,7 @@ reads:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=agent-0x&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=agent-0x&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=agent-0x&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888">
+    <img src="https://streak-stats.demolab.com/?user=agent-0x&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=888888" alt="GitHub contribution streak stats">
   </picture>
 </div>
 
@@ -96,7 +96,7 @@ reads:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=agent-0x&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=1f6feb&area=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=agent-0x&theme=minimal&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agent-0x&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=1f6feb&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agent-0x&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area_color=1f6feb&area=true" width="100%" alt="GitHub activity graph">
   </picture>
 </div>
 
