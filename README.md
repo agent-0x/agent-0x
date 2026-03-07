@@ -40,8 +40,8 @@ philosophy:
   - # like dew and lightning — thus should you meditate upon them.
   - — Diamond Sutra                    # Build with full effort, hold nothing tight.
 reads:
+  - "The Last Economy"             # AI reshapes everything — ii.inc/web/the-last-economy
   - "The Three-Body Problem"       # The universe is a dark forest, but we choose to light a fire
-  - "Intelligent Economy"          # AI reshapes everything — production, life, and the world
 ```
 
 <br>
