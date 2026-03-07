@@ -34,6 +34,11 @@ specialty:  On-chain Analysis × AI Prediction
 motto:      "Build tools that think, deploy agents that act."
 believes_in:
   - Technology optimist — AI amplifies human potential
+philosophy:
+  - "一切有为法，如梦幻泡影，如露亦如电，应作如是观。"
+  - # All conditioned phenomena are like dreams, illusions, bubbles, shadows;
+  - # like dew and lightning — thus should you meditate upon them.
+  - — Diamond Sutra                    # Build with full effort, hold nothing tight.
 reads:
   - "The Three-Body Problem"       # The universe is a dark forest, but we choose to light a fire
   - "Intelligent Economy"          # AI reshapes everything — production, life, and the world
